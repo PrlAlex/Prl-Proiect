@@ -10,4 +10,4 @@ Fisierul index.html este valabil be paginamea de github (https://github.com/PrlA
 ## Ce fac daca nu am un brouser web?
 ¯\_(ツ)_/¯
 ## Cum se utilizeaza?
-Pentru utilizarea acestui fisier se va folosi actiunea de citire. Pentru cei cu probleme la aceasta categorie se recomamda ochelari de vedere sau citire.
+Pentru utilizarea acestui fisier se va folosi actiunea de citire. Pentru cei cu probleme la aceasta categorie se recomamda ochelari de vedere sau de citire.
