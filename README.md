@@ -2,7 +2,7 @@
 ## **Salut!**
 Momentan acest proiect are doar o fila html cu un text de salutare. Pe viitor, nu garantez, as vrea sa continui dezvoltarea acestui proiect.
 ## De ce nu incep dezvoltarea acuma?
-In acest momemt nu am cunostintele si energia ca sa continu.
+In acest momemt nu am cunostintele si energia ca sa continui.
 ## Cum adica nu ai energia?
 In organismul uman mitocondriile au rolul de a arde glucoza pentru a sustine organismul cu energie. In acest moment nivelul de glocoza al organismului meu nu este suficient pentru a emite dopamina suficienta pentru a incuraja continuarea dezvoltarii acestui proiect.
 ## OK cum e cu fisierul?
